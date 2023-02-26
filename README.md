@@ -12,3 +12,7 @@ January 2019 note: This script worked for my Nexus 5, but doesn't
 seem to work on my OnePlus 3T, so maybe Google has since closed the
 loophole exploited by this script.
 
+February 2023 note: Looks like loophole still exists, but needs
+to be exploited differently in later versions of Android or adb.
+Try `get-android-wifi-passwords-2` for newer phones (e.g., Android 10 & later.)
+
